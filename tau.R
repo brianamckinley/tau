@@ -1,7 +1,5 @@
 library(Rfast)
 setwd("~/Desktop/")
-# import data
-rm( list = ls()); gc();
 ##user input
 filename = "tau_test1.csv"
 column_range = 42:74
